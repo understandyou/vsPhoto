@@ -1,0 +1,6 @@
+E:\st\vs\Solution1\layuiBLL\bin\Debug\layuiBLL.dll
+E:\st\vs\Solution1\layuiBLL\bin\Debug\layuiBLL.pdb
+E:\st\vs\Solution1\layuiBLL\obj\Debug\layuiBLL.csprojAssemblyReference.cache
+E:\st\vs\Solution1\layuiBLL\obj\Debug\layuiBLL.csproj.CoreCompileInputs.cache
+E:\st\vs\Solution1\layuiBLL\obj\Debug\layuiBLL.dll
+E:\st\vs\Solution1\layuiBLL\obj\Debug\layuiBLL.pdb
